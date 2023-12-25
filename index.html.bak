@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+ <head>
+	<title>Charlie Mar Santos Lugtu's Portfolio</title>
+ </head>
+ <body>
+	<h1>Charlie Mar Santos Lugtu</h1>
+	<p>Software Engineer | Game Developer | Python Programmer <br /> 
+	Python Developer | Java Programmer | Java Developer <br />
+	Data Entry Analyst | Data Entry Specialist | Data Entry Clerk <br />
+	Research Analyst | Programmer | Typist Clerk <br />
+	Frontend Developer | Aspiring Data Analyst </p>
+	
+	<div id="Introduction">
+		<h2>About Me</h2>
+		<p>My name is Charlie Mar Santos Lugtu. I graduated from 
+		California State University-Dominguez Hills 
+		with a bacholors degree in computer science. I am an aspiring
+		to a Data Analyst someday. Right now I am learning how to use
+		HTML and I am still learning as I go. I know programming languages 
+		in Python, Java, SQL, MySQL, and C++. I know how to use some 
+		software technologies such as Microsoft Office (Word, PowerPoint, 
+		Excel, Outlook, Teams), VSCode, Notepad++, VSCode, AWS, 
+		Amazon Alexa Skills Kit, Git, Docker, Jenkins, Mavin, JUnit, 
+		Unix, MSDos, Python Arcade Library, PyCharm,
+		Eclipse, and NetBeans. I am familiar with Operating System
+		in MacOS, Microsoft Windows, Linux, and Unix. I have other skills
+		such as Agile Software Development, Multi-Tasking, 
+		Self-Learner, Detailed-Oriented, Analytical Skills, 
+		Communication Skills, Writing Skills,  Public Speaking, 
+		Problem Solving, Customer Service, Data Entry, Hardware, 
+		Programming, Data Structures, Analysis of Algorithms, and 
+		Typing 55 wpm.</p>
+		<p>If you want to learn more about me, 
+		<a href="https://www.linkedin.com/in/charliemarlugtu" target="_blank"> 
+		click here to my LinkedIn.</a></p>
+		<p>If the link does not work above, please copy this URL 
+		and paste it on the address bar: 
+		www.linkedin.com/in/charliemarlugtu</p>
+		<p>You need sign in or sign up to a LinkedIn account 
+		if you want to know more about me.</p>
+		
+	</div>
+ </body>
+</html>
